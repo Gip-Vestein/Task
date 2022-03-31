@@ -6,7 +6,7 @@ ___
 
 lICENCE: [MIT](./licese.mid)
 
-![](./images/320px-Git-logo.svg.png)
+![GIT-LOGO](./images/320px-Git-logo.svg.png)
 
 ___
  ## *Содержание*
@@ -16,8 +16,15 @@ ___
 3. Дружелюбность [--->]()
 4. Базовая настройка [--->]()
 ### *Команды GIT*
-1. git add [--->]()
-2. 
+> git add . [--->]()
+
+> git status [--->]()
+
+>git diff [--->]()
+
+>git commit -m [--->]()
+
+
 
 
 
