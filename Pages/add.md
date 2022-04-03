@@ -14,4 +14,8 @@ git add .
 git add somefile.js
 ```
 
+
+
+
 [<Назад](./../Pages/status.md)  [<Главная>](./../readme.md)   [Вперёд>](./Pages/../commit.md)
+

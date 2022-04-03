@@ -19,4 +19,7 @@ git diff somefile.js
 ```
 
 
+
+
 [<Назад](./../Pages/pull.md)  [<Главная>](./../readme.md)   [Вперёд>](./Pages/../branch.md)
+

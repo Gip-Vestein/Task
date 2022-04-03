@@ -16,4 +16,8 @@ git pull origin master
 
 •	master - а точнее, с ветки master
 
+
+
+
 [<Назад](./../Pages/push.md)  [<Главная>](./../readme.md)   [Вперёд>](./Pages/../diff.md)
+

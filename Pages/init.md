@@ -6,4 +6,8 @@
 git init
 ```
 
+
+
+
 [<Назад](./../Pages/4.md)  [<Главная>](./../readme.md)   [Вперёд>](./Pages/../clone.md)
+

@@ -29,4 +29,8 @@ git push origin master
 
 •	master - что, ветку master
 
+
+
+
 [<Назад](./../Pages/commit.md)  [<Главная>](./../readme.md)   [Вперёд>](./Pages/../pull.md)
+

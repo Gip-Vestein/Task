@@ -6,4 +6,8 @@
 git status
 ```
 
+
+
+
 [<Назад](./../Pages/clone.md)  [<Главная>](./../readme.md)   [Вперёд>](./Pages/../add.md)
+

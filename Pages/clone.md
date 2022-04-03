@@ -23,4 +23,7 @@ git clone https://github.com/Gip-Vestein/Task.git Task-new
 Где Task-new - нужное название папки.
 
 
+
+
 [<Назад](./../Pages/init.md)  [<Главная>](./../readme.md)   [Вперёд>](./Pages/../status.md)
+
