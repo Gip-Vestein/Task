@@ -11,18 +11,30 @@ lICENCE: [MIT](./licese.mid)
 ___
  ## *Содержание*
 
-1. Введение
+1. Что такое GIT [--->](./Pages/1.md)
 2. Репозиторий [--->](./Pages/2.md)
 3. Дружелюбность [--->]()
 4. Базовая настройка [--->]()
-### *Команды GIT*
-> git add . [--->]()
+ ## *Команды GIT*
 
-> git status [--->]()
+> init [--->](./Pages/init.md)
 
->git diff [--->]()
+> git clone [--->](./Pages/clone.md)
 
->git commit -m [--->]()
+> git status [--->](./Pages/status.md)
+
+> git add . [--->](./Pages/add.md)
+
+> git commit -m [--->](./Pages/commit.md)
+
+> push [--->](./Pages/push.md)
+
+> pull [--->](./Pages/pull.md)
+
+> git diff [--->](./Pages/diff.md)
+
+> Команды ветвления [--->](./Pages/branch.md)
+
 
 
 
